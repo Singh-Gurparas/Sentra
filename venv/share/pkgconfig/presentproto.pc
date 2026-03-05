@@ -1,7 +1,0 @@
-prefix=/home/gurparas/Projects/Spectra/venv
-includedir=${prefix}/include
- 
-Name: PresentProto
-Description: Present extension headers
-Version: 1.4
-Cflags: -I${includedir}
